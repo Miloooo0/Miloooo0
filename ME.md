@@ -15,4 +15,4 @@
   
 - 💞️ I’m looking to collaborate and belong to the biggest companies, those with the biggest reputation and support the development of new computer systems
       through Artificial Intelligence (AI) and Machine Learning, Quantum Computing, Cloud Technology and Advanced Cybersecurity.
-[![GitHub Streak]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miloooo0&theme=tokyonight-duo&border_radius=20&locale=es&card_height=230)](https://git.io/streak-stats)
